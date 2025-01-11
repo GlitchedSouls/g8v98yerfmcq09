@@ -1,16 +1,12 @@
 {
     "versions": [
         {
-            "name": "Version 1.0",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1327689886458708113/1327689933149835376/1.zip?ex=6783fb1b&is=6782a99b&hm=b9584f269ce787438ab370301cfe8a761e0fe282f5ae245ecb2d091fe27dc941&"
+            "name": "Version 11.0.7.58238",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1327689886458708113/1327692137562898523/11.0.7.58238.zip?ex=6783fd28&is=6782aba8&hm=3bf6d638e843d155e632540d37be76a728c9298f1ad9aedf7ce2ca4bb3a59f62&"
         },
         {
-            "name": "Version 2.0",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1327689886458708113/1327689933548159068/2.zip?ex=6783fb1b&is=6782a99b&hm=ef4d8623355dfec2f02845741ea94c61422b5b1122e11ed78418e13e0b001854&"
-        },
-        {
-            "name": "Version 2.0",
-            "downloadUrl": "https://example.com/files/version2.zip"
+            "name": "Version 11.0.7.58533",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1327689886458708113/1327693069830586398/11.0.7.58533.zip?ex=6783fe07&is=6782ac87&hm=a94ed2a345cb68e9b4d5798aa92892be8132b1f358c9305ddf6e5ed0013bd5bb&"
         }
     ]
 }
